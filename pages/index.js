@@ -9,9 +9,9 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.bio}>
-        <p>I'm a <a href="https://github.com/francisfuzz" target="_blank">program manager at GitHub</a> and have had the privilege of staffing numerous ships including GitHub Actions, the GraphQL API, and Pull Request Reviews.</p>
-        <p>My working style is a blend of cultivating psychological safety, building trust, exercising curiosity, and collaborating with others to produce amazing work.</p>
-        <p>My <a href="https://www.linkedin.com/in/francis-b">professional background</a> is an eclectic mix of software engineering and customer support and I believe the secret to living is giving.</p>
+        <p>I'm a Senior Program Manager at <a href="https://github.com" target="_blank">GitHub</a>, the world's largest software development network. Previously, I worked as a Senior Support Engineer focused on empowering customers with <a href="https://github.community/u/francisfuzz/activity/solved" target="_blank">technical advice</a> for making the most out of GitHub's platform features.</p>
+        <p>My <a href="https://www.linkedin.com/in/francis-b">professional background</a> is an eclectic mix of software engineering, support, and teaching. Cultivating high psyschological safety, exercising curiosity, and creating space to learn and solve problems together are what I'm about.</p>
+        <p>I made this website to share what I know in the hopes of encouraging and empowering readers (like you!) to go farther than me. You're welcome to support my writing by <a href="https://www.buymeacoffee.com/francisfuzz">buying me a nigiri</a>! 🍣 </p>
       </section>
     </Layout>
   )
