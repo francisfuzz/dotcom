@@ -1,10 +1,10 @@
 import Head from 'next/head'
+import Image from 'next/image'
 import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = "👋🏽 Hi, I'm Francis!"
-const PROFILE_IMAGE_SRC = 'https://avatars.githubusercontent.com/u/15894826?v=4'
 export const siteTitle = '✨ Stay wonderful'
 
 export default function Layout({ children, home }) {
@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="{PROFILE_IMAGE_SRC}"
+              src="/images/profile.png"
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -44,7 +44,7 @@ export default function Layout({ children, home }) {
               <a>
                 <Image
                   priority
-                  src="{PROFILE_IMAGE_SRC}"
+                  src="/images/profile.png"
                   className={utilStyles.borderCircle}
                   height={108}
                   width={108}
