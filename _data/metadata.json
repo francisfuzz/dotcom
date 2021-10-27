@@ -1,0 +1,21 @@
+{
+  "title": "francisfuzz's engineering blog",
+  "url": "https://francisb.me/",
+  "language": "en",
+  "description": "",
+  "feed": {
+    "subtitle": "francisfuzz's engineering blog",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://francisb.me/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://francisb.me/feed/feed.json"
+  },
+  "author": {
+    "name": "francisfuzz",
+    "email": "15894826+francisfuzz@users.noreply.github.com",
+    "url": "https://francisb.me/about-me/"
+  }
+}
