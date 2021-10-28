@@ -9,7 +9,6 @@
     "start": "eleventy --serve",
     "debug": "DEBUG=* eleventy"
   },
-  "type": "module",
   "repository": {
     "type": "git",
     "url": "git://github.com/11ty/eleventy-base-blog.git"
