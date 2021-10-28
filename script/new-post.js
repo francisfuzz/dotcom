@@ -17,4 +17,4 @@ layout: layouts/post.njk
 
 It's the start of something new.`
 
-writeFileSync(`${POSTS_PATH}/${year}-${month}-${day}-${postId}`, content)
+writeFileSync(`${POSTS_PATH}/${year}-${month}-${day}-${postId}.md`, content)
