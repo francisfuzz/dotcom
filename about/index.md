@@ -11,4 +11,4 @@ I'm a Senior Partner Engineer for the Global Expansion & Partnerships team at [G
 
 Previously, I worked as a program manager and a technical support engineer helping customers with <a href="https://github.community/u/francisfuzz/activity/solved" target="_blank">technical advice</a> for making the most out of GitHub's platform features.
 
-I made this website to capture what I'm learning and sharing it with the world to encourage and empower readers like you my writing by [buying me a nigiri 🍣 ](https://www.buymeacoffee.com/francisfuzz). If you'd like to connect, find me on [LinkedIn](https://www.linkedin.com/in/francis-b).
+I made this website to capture what I'm learning and sharing it with the world to encourage and empower readers like you my writing by [buying me a nigiri](https://www.buymeacoffee.com/francisfuzz). If you'd like to connect, find me on [LinkedIn](https://www.linkedin.com/in/francis-b).
