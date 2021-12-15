@@ -1,10 +1,10 @@
 {
-  "title": "francisfuzz's engineering blog",
+  "title": "Francis is pondering",
   "url": "https://francisb.me/",
   "language": "en",
   "description": "",
   "feed": {
-    "subtitle": "francisfuzz's engineering blog",
+    "subtitle": "Francis is pondering",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://francisb.me/"
