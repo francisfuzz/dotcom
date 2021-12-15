@@ -1,10 +1,10 @@
 {
-  "title": "Francis is pondering",
+  "title": "#francis-is-pondering",
   "url": "https://francisb.me/",
   "language": "en",
   "description": "",
   "feed": {
-    "subtitle": "Francis is pondering",
+    "subtitle": "#francis-is-pondering",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://francisb.me/"
