@@ -2,6 +2,7 @@
 title: Seeking Clarity Without Being A Jerk
 date: 2021-12-15
 description: How to reduce ambiguity when presented unclear expectations at work
+tag: communication
 ---
 
 I wrote this many moons ago when I still worked as a program manager for the [GitHub Support Community forum](https://github.community/). Back then, I focused on understanding and improving our problem resolution rate. The nature of my work was strategic, creative, and collaborative and my projects varied from researching, ideating, and creating content for helping first-time community members to collaborating with other teams to tackle a backlog of topics in our forum.
