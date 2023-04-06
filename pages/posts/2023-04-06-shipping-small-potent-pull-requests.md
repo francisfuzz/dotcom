@@ -23,7 +23,7 @@ Feeling confident, I charged in to work on my next pull request!
 
 Specifically, I started working on a part of the backend that exposed a new method for returning meaningful data in the UI. On Monday, I had a handful of files that were not polished but at the 30% mark of what I felt was ready. On Tuesday and Wednesday, the scope of my pull request grew as I went deeper into development. By Thursday morning, over 20 files had been changed, spanning from updating the views I originally worked on to adding new models and controllers. 😬
 
-When I finally marked my [draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests) ready for review, one of the staff engineers on my team reviewed my work as it was. One of the most valuable questions she asked was if I'd be open to shipping the model-specific changes in a separate and earlier pull requests.
+When I finally marked my [draft pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests#draft-pull-requests) ready for review, one of the staff engineers on my team reviewed my work as it was. One of the most valuable questions she asked was if I'd be open to shipping the model-specific changes in separate and earlier pull requests.
 
 I immediately agreed. Writing this out, I'll go on the record and say that I'm glad I did.
 
