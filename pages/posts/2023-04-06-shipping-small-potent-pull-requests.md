@@ -29,7 +29,7 @@ I immediately agreed. Writing this out, I'll go on the record and say that I'm g
 
 On that Thursday afternoon, I moved the model-specific changes to separate pull requests. This gave me a chance to refactor the new module I introduced and to double-check my tests.
 
-As a part of that work, I found some mistakes in the internal documentation I wrote for that module. For context, the module is written to be mixed in to other models. I noticed, however, that I had written the documentation as if it were intended to only be mixed into one kind of model.
+As a part of that work, I found some mistakes in the internal documentation I wrote for that module. For context, the module is written to be mixed into other models. I noticed, however, that I had written the documentation as if it were intended to only be mixed into one kind of model.
 
 I updated it by making the documentation more generic:
 
