@@ -27,9 +27,42 @@ When I finally marked my [draft pull request](https://docs.github.com/en/pull-re
 
 I immediately agreed. Writing this out, I'll go on the record and say that I'm glad I did.
 
-On that Thursday afternoon, I moved the model-specific changes to a separate pull requests. This gave me a chance to refactor the new module I introduced and to double-check my tests. In addition, I found some mistakes in the internal documentation I wrote for that module and fixed them. When I re-requested her review near my end-of-day, she gave me very focused feedback on the tests that implicitly taught me of another way of writing the same test fixtures in a more concise way.
+On that Thursday afternoon, I moved the model-specific changes to a separate pull requests. This gave me a chance to refactor the new module I introduced and to double-check my tests.
 
-I came back to work on Friday morning. My goal was to address her feedback and ship that pull request. After requesting another review, she approved the changes and I spent the rest of the day shepherding it through our deployment queue to get it into production! 🚀
+As a part of that work, I found some mistakes in the internal documentation I wrote for that module. For context, the module is written to be mixed in to other models. I noticed, however, that I had written the documentation as if it were intended to only be mixed into one kind of model.
+
+I updated it by making the documentation more generic:
+
+```diff
+-    # Public: Returns the authors of a {MODEL_NAME} in a given resource.
++    # Public: Returns the authors in a given resource, depending on the model it's
++    # called on.
+```
+
+Another mistake I found was in the return value of the method. When I update the method's API, I forgot to double-check these annotations and took the liberty of updating them:
+
+```diff
+-    # Returns an ordered Array of authors.
++    # Returns an Array of Arrays, where each element contains the author's username and ID.
+```
+
+By having only four files to focus on rather than twenty, I felt that my self-review was much more focused and something I could confidently share with my reviewers to help them understand the changes I made.
+
+When I re-requested her review near my end-of-day, she gave me very focused feedback on the tests that implicitly taught me of another way of writing the same test fixtures in a more concise way using [FactoryBot's `create_list` method](https://www.rubydoc.info/gems/factory_bot/FactoryBot/Syntax/Methods:create_list):
+
+```diff
+-      # Before: use Ruby's `times` method to create two instances of a model
+-
+-      2.times do
+-        create(:some_resource, post: @unanswered_post, user: author_one)
+-      end
+
++      # After: use FactoryBot's `create_list` method to create two instances of a model
++
++      create_list(:some_resource, 2, post: @unanswered_post, user: author_one)
+```
+
+I came back to work on Friday morning. My goal was to address her feedback by making those requested changes and ship that pull request. After requesting another review, she approved the changes and I spent the rest of the day shepherding it through our deployment queue to get it into production! 🚀
 
 ## For the future
 
