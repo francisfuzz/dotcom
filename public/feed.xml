@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Apr 2023 21:45:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Apr 2023 00:40:49 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
@@ -13,6 +13,14 @@
             <guid isPermaLink="true">/posts/2021-12-15-seeking-clarity-without-being-a-jerk</guid>
             <category><![CDATA[communication]]></category>
             <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipping small]]></title>
+            <description><![CDATA[Potent Pull Requests]]></description>
+            <link>/posts/2023-04-06-shipping-small-potent-pull-requests</link>
+            <guid isPermaLink="true">/posts/2023-04-06-shipping-small-potent-pull-requests</guid>
+            <category><![CDATA[engineering]]></category>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
