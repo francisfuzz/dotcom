@@ -121,6 +121,14 @@ IPython.display.Markdown(response.choices[0].text)
   - RLHF: involves collecting high-quality prompt datasets
   - Examples: Claude (Anthropic); ChatGPT (OpenAI)
 
+#### Future Directions
+
+- Augmented LMs
+- Emergent ability of LMs
+- Acting / Planning - Reinforcement Learning
+- Multimodal Prompting
+- Graph Prompting
+
 ### Questions / Next steps
 
 Find the answers:
