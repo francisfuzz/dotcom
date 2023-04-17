@@ -50,10 +50,6 @@ Categories:
 - Reasoning: "Explain why the above is true."
     - If these AIs can go about reasoning, this is a huge step forward in combining seemingly disparate contexts and drawing a new conclusion from them that isn't yet written.
 
-### Questions
-
-- On classification: are there other things that you can classify on besides neutral, negative, and positive? I need five examples.
-
 ### Prompt Engineering Techniques
 
 - Few shot prompts: allows us to provide **exemplars** in prompts to seter the model towards better performance. Give it an idea of what the task is about, and follow the pattern of the exemplars. It's like how I learn what to do and apply in new situations (what have we done before, and given those patterns, how can I apply it here?)
@@ -81,7 +77,7 @@ Categories:
   - Program-aided langauge models (PAL) uses an LLM to read problems and generate programs as the intermediate reasoning steps; it offloads the solution step to a runtime such as Python interpreter
 
 
-## Zero-shot CoT Example
+### Zero-shot CoT Example
 
 ```python
 prompt = """
@@ -97,3 +93,10 @@ IPython.display.Markdown(response.choices[0].text)
 ```
 
 - Reduce the stereotype bias by provide a very precise prompt
+
+
+### Questions
+
+- On classification: are there other things that you can classify on besides neutral, negative, and positive? I need five examples.
+- On `Data-augmented generation`: how can I get started? Is there a tool or playground for this?
+
