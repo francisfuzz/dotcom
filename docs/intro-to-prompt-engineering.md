@@ -94,9 +94,40 @@ IPython.display.Markdown(response.choices[0].text)
 
 - Reduce the stereotype bias by provide a very precise prompt
 
+### Data-augmented generation
 
-### Questions
+- It's important to get the most up-to-date information for the model so you can get the most accurate results
+- Process and instructions can be perfect, but again -- if the data coming isn't accurate, then the results won't be accurate
+- There's a way to short-circuit: explain that it doesn't need to provide answer if it doesn't know, don't make one up. Also, having a way to say "source" is good to build confidence.
 
+### Closing thoughts
+
+#### Model Safety
+
+- Prompt engineering can be used not only to improve performance but also the reliability of response from a safety perspective
+  - Prompt engineering can help identify risky behaviours of LLMs which can help to reduce harmful behaviors and risks that may arise from language models
+  - There is also a part of the community performing prompt injection to understand the vulnerability of LLMs
+
+#### Prompt Injections
+
+- Prompt injection is used to hijack an LM's output by injecting an untrusted command that overrides instruction of a prompt
+  - This could easily happen if you just concatenate your prompt with another user generated prompt
+- Prompt leaking: afrce the model to spit out information about its own prompt
+  - This can lead to leaking of either sensitive, private, or information that's confidential
+- Jailbreaking: form of prompt injection where the goal is to bypass safety and moderation features
+  - LLMs provided via APIs might be coupled with safety features or content moderation which can be bypassed with harmful prompts/attacks
+  - This might sound like a difficult task but it's not because the model is usually served static and might have these vulnerabilities due to many factors such as where data has been trained on
+- RLHF: Reinforcement Learning from Human feedback: now being used to train LLMs that f it human preference
+  - RLHF: involves collecting high-quality prompt datasets
+  - Examples: Claude (Anthropic); ChatGPT (OpenAI)
+
+### Questions / Next steps
+
+Find the answers:
 - On classification: are there other things that you can classify on besides neutral, negative, and positive? I need five examples.
 - On `Data-augmented generation`: how can I get started? Is there a tool or playground for this?
+  - https://docs.langchain.com/docs/
 
+Do the work:
+  - Do all the exercises and write a blog post about it
+  - Watch [Sparks of AGI: early experiments with GPT-4](https://youtu.be/qbIk7-JPB2c)
