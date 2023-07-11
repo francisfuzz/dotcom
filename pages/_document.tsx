@@ -2,8 +2,8 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'francisfuzz.com | Francis Batac',
-    description: 'Personal Website of Francis Batac',
+    title: 'Francis Batac',
+    description: 'Senior Software Engineer',
     image: 'https://avatars.githubusercontent.com/u/15894826?v=4',
   }
 
