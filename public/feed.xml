@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your Name]]></title>
+        <description><![CDATA[Your Name]]></description>
+        <link>https://yoursite.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 11 Jul 2023 14:55:15 GMT</lastBuildDate>
+        <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
+            <description><![CDATA[How to reduce ambiguity when presented unclear expectations at work]]></description>
+            <link>/posts/2021-12-15-seeking-clarity-without-being-a-jerk</link>
+            <guid isPermaLink="true">/posts/2021-12-15-seeking-clarity-without-being-a-jerk</guid>
+            <category><![CDATA[communication]]></category>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shipping small]]></title>
+            <description><![CDATA[Potent Pull Requests]]></description>
+            <link>/posts/2023-04-06-shipping-small-potent-pull-requests</link>
+            <guid isPermaLink="true">/posts/2023-04-06-shipping-small-potent-pull-requests</guid>
+            <category><![CDATA[engineering]]></category>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
