@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 12 Jul 2023 15:02:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 15:51:18 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
@@ -19,6 +19,14 @@
             <description><![CDATA[Potent Pull Requests]]></description>
             <link>/posts/2023-04-06-shipping-small-potent-pull-requests</link>
             <guid isPermaLink="true">/posts/2023-04-06-shipping-small-potent-pull-requests</guid>
+            <category><![CDATA[engineering]]></category>
+            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Building Psychological Safety In Code Reviews]]></title>
+            <description><![CDATA[What would code reviews look like if teams prioritized this?]]></description>
+            <link>/posts/2023-07-21-building-psychological-safety-in-code-reviews</link>
+            <guid isPermaLink="true">/posts/2023-07-21-building-psychological-safety-in-code-reviews</guid>
             <category><![CDATA[engineering]]></category>
             <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
         </item>
