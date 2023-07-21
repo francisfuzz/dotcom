@@ -82,6 +82,21 @@ Limits (read: expectations) give team members confidence to know what the bounda
 
 At GitHub, we have company-wide policies on opening and reviewing pull requests. Teams that manage one or more services use [pull request templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/creating-a-pull-request-template-for-your-repository) for setting guidelines for pull request authors to fill out ahead of opening the pull request. Once these limits are set, each member is responsible for practicing them and they hold each other accountable to follow through with what's agreed upon.
 
+### Case Study: GitHub Sponsors' PR Review Emoji Schema
+
+One of the problems the GitHub Sponsors team faced in their code reviews is not having a clear understanding of whether comments on their pull request are blocking or not.
+
+After investigation and research, they decided on a new process for using use emojis to indicate the type of review comment that's being left on a pull request.
+
+Here's their system:
+
+- 💅🏽 | non-blocking changes
+- 🛑 | blocking changes
+- 🔜 | fast-follows (address non-blocking changes in a separate PR to come after the one being reviewed)
+- ❓ | questions
+
+Credits go to [@knittingarch](https://github.com/knittingarch) and [@cheshire137](https://github.com/cheshire137) for doing the work in making this happen, along with the GitHub Sponsors team for their permission to share this case study publicly!
+
 ### Approachability
 
 [Approachable](https://www.etymonline.com/word/approachable) literally comes from the word "accessible"; in the figurative sense, ["affable"](https://www.etymonline.com/word/affable#etymonline_v_5189), which in context is one that's "open to conversation or approach."
