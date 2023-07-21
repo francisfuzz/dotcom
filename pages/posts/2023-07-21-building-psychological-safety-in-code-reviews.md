@@ -23,15 +23,15 @@ Last, I'm giving this my best and I know that I'm fallible. You're welcome to [o
 
 Let's start with definitions. Amy Edmondson is the Novartist Professor of Leadership and Management at Harvard Business School and is known for her work with teams. In her TedX HGSE talk [Building a psychologically safe workplace](https://www.youtube.com/watch?v=LhoLuui9gX8) she defines psychological safety as:
 
-> "a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes."
+> a belief that one will not be punished or humiliated for speaking up with ideas, questions, concerns, or mistakes.
 
 I recognize that the words `punished` and `humiliated` may convey a negative sensitivity for some readers. As I engaged with this definition, one of my mentors shared that psychological safety can be impacted by actions and sentiments less severe. By acknowledging that there's really a spectrum, one way we can widen the scope of this definition is to offer an alternative, definition:
 
-> "a belief that one will not be excluded or made inferior for speaking up with ideas, questions, concerns, or mistakes."
+> a belief that one will not be excluded or made inferior for speaking up with ideas, questions, concerns, or mistakes.
 
 Whenever I see terms defined in the negative, I challenge myself by taking a stab at defining it in the affirmative. Here's the best I could come up with:
 
-> "a belief that one will be recognized and affirmed for speaking up with ideas, questions, concerns, or mistakes."
+> a belief that one will be recognized and affirmed for speaking up with ideas, questions, concerns, or mistakes.
 
 Depending on the context and cases I walk through, I've fluidly shifted between these three definitions in my day-to-day work life.
 
@@ -41,7 +41,7 @@ Moving from this common understanding, let's talk about why it matters.
 
 Amy Edmondson shares this reason in the aforementioned presentation:
 
-> "Every time we withhold, we rob ourselves and our colleagues of small moments of learning, and we don't innovate."
+> Every time we withhold, we rob ourselves and our colleagues of small moments of learning, and we don't innovate.
 
 At GitHub, one of our leadership principles is "trust by default." In my view, psychological safety is foundational to building trust in any of our working relationships. Without trust, it's pretty tough to do anything else, whether we're communicating with each other amidst conflict, building a new feature, debugging a tricky bug, or exercising the courage to challenge a controversial decision. Every meaningful piece of work comes from the bedrock of operating under high trust.
 
