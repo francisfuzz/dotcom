@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 21 Jul 2023 15:51:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 15:55:01 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
@@ -28,7 +28,7 @@
             <link>/posts/2023-07-21-building-psychological-safety-in-code-reviews</link>
             <guid isPermaLink="true">/posts/2023-07-21-building-psychological-safety-in-code-reviews</guid>
             <category><![CDATA[engineering]]></category>
-            <pubDate>Thu, 06 Apr 2023 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 21 Jul 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
