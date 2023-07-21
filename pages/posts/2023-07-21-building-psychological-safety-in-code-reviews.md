@@ -1,6 +1,6 @@
 ---
 title: Building Psychological Safety In Code Reviews
-date: 2023-04-06
+date: 2023-07-21
 description: What would code reviews look like if teams prioritized this?
 tag: engineering
 ---
