@@ -6,7 +6,9 @@ const withNextra = require('nextra')({
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  images.unoptimized = true,
+  images: {
+    unoptimized: true,
+  },
 }
 
 module.exports = withNextra(nextConfig)
