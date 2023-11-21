@@ -1,6 +1,6 @@
 ---
 title: Web Summit Lisbon 2023
-date: 2023-07-21
+date: 2023-11-21
 description: Pro pitching tips, the microbiome's role in evolution, and what it takes to be a tech leader
 tag: learning
 ---
