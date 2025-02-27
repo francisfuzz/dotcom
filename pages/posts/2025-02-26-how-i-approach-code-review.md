@@ -5,7 +5,10 @@ description: Contextualizing code for building confident change
 tag: craft
 ---
 
-This post documents how I (@francisfuzz) approach code review. It is my personal culmination of experience spanning my current and previous roles as:
+
+I have a confession: I love reviewing code. It's one of my favorite things to do as a developer.
+
+Considering over a decade's worth of reading, writing, and reviewing code, I'm writing this down as a snapshot of that collective experience working these roles:
 
 - a senior software engineer for GitHub (currently for the New User Experience team)
 - a software consultant for the handful of startups and software agencies since 2014
