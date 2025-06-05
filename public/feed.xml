@@ -4,7 +4,7 @@
         <description><![CDATA[Your Name]]></description>
         <link>https://yoursite.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Feb 2025 18:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jun 2025 15:24:45 GMT</lastBuildDate>
         <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
@@ -40,11 +40,11 @@
         </item>
         <item>
             <title><![CDATA[How @francisfuzz approaches code review]]></title>
-            <description><![CDATA[Contextualizing code for building confident change]]></description>
+            <description><![CDATA[Supercharging shipping confidence]]></description>
             <link>/posts/2025-02-26-how-i-approach-code-review</link>
             <guid isPermaLink="true">/posts/2025-02-26-how-i-approach-code-review</guid>
             <category><![CDATA[craft]]></category>
-            <pubDate>Wed, 26 Feb 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 02 Jun 2025 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

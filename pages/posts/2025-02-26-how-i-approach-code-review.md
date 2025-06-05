@@ -109,3 +109,14 @@ Teams that invest in systematic code review processes ship faster and more relia
 Code review continues evolving with AI assistance, but the fundamental principles remain: understand context, analyze systematically, validate thoroughly. Tools can surface issues and suggest improvements, but human judgment about business alignment, user impact, and system architecture remains irreplaceable.
 
 The best code review isn't about perfection—it's about confidence. When your team consistently applies these practices, you ship knowing your changes will work as intended, scale appropriately, and maintain the codebase quality that enables sustainable growth.
+
+### Special thanks
+
+(Edited to add | June 5, 2025): thank you to my colleagues, be it in our conversations or in editorial review. Without you, this post would not be possible!
+
+- [Andrea Takamiya](https://github.com/andimiya)
+- [Ash Wilson](https://github.com/smashwilson)
+- [Hannah Yiu](https://github.com/hkly)
+- [Julie Kang](https://github.com/juliekang)
+- [Sarah Vessels](https://github.com/cheshire137)
+- [Selene B. Pastelski](https://github.com/catsintents)
