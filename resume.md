@@ -1,7 +1,8 @@
 ---
-type: page
+layout: default
 title: Résumé
 date: 2023-07-11
+permalink: /resume/
 ---
 
 # Résumé

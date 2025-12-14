@@ -1,5 +1,5 @@
 ---
-type: page
+layout: default
 title: About
 date: 2025-01-24
 ---
@@ -18,7 +18,7 @@ Disclaimer: the views expressed in this website are my own and do not reflect th
 
 ## About the site
 
-The site's source code is available on GitHub at [`francisfuzz/dotcom`](https://github.com/francisfuzz/dotcom). It is hosted on [Vercel](https://vercel.com/) and is built with **Next.js** and a library called [Nextra](https://nextra.vercel.app/).
+The site's source code is available on GitHub at [`francisfuzz/dotcom`](https://github.com/francisfuzz/dotcom). It is hosted on **GitHub Pages** and is built with **Jekyll**.
 
 ---
 

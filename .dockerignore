@@ -1,0 +1,21 @@
+# Git
+.git
+.gitignore
+
+# Jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Ruby
+vendor/bundle
+.bundle
+
+# macOS
+.DS_Store
+
+# Editor
+*.swp
+*.swo
+*~

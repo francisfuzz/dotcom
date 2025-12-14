@@ -1,0 +1,33 @@
+title: francisfuzz.com
+description: Francis' personal portfolio
+author: Francis Batac
+email:
+url: "https://francisfuzz.com"
+baseurl: ""
+
+# Build settings
+markdown: kramdown
+permalink: /posts/:year/:month/:day/:title/
+
+# Disable live reload to avoid eventmachine dependency issue
+livereload: false
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - package.json
+  - package-lock.json
+  - next.config.js
+  - theme.config.js
+  - tsconfig.json
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
