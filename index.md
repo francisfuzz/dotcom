@@ -20,7 +20,7 @@ Disclaimer: the views expressed in this website are my own and do not reflect th
 
 ## About the site
 
-The site's source code is available on GitHub at [`francisfuzz/dotcom`](https://github.com/francisfuzz/dotcom). It is hosted on **GitHub Pages** and is built with **Jekyll**.
+The site's source code is available on GitHub at [`francisfuzz/francisfuzz.github.io`](https://github.com/francisfuzz/francisfuzz.github.io). It is hosted on **GitHub Pages** and is built with **Jekyll**.
 
 ---
 
