@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-date: 2025-01-24
+date: 2025-12-13
 ---
 
 # francisfuzz.com
