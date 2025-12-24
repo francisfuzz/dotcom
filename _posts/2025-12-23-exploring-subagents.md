@@ -14,4 +14,4 @@ I watched these two videos and found these [concepts from Beyang Liu's AmpCode](
 - Library
 - Kraken
 
-I asked myself: what would it take to build a subagent from scratch?
+I asked myself: what would it take to build a subagent from scratch using Claude's API?
