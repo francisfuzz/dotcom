@@ -1,6 +1,6 @@
 ---
 title: Exploring Subagents in Claude Code
-date: 2025-06-02
+date: 2025-12-24
 description: 
 tag: craft
 ---
