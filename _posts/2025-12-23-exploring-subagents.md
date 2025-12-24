@@ -14,4 +14,26 @@ I watched these two videos and found these [concepts from Beyang Liu's AmpCode](
 - Library
 - Kraken
 
+Along with HumanLayer's open source examples:
+
+https://github.com/humanlayer/humanlayer/tree/main/.claude/agents
+
 I asked myself: what would it take to build a subagent from scratch using Claude's API?
+
+### Discovery
+
+### Research
+
+### Plan
+
+### Implementation
+
+### Testing
+
+### Deployment
+
+### Documentation
+
+### Maintenance
+
+### Cleanup
