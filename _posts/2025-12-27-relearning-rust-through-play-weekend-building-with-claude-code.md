@@ -5,8 +5,6 @@ description: What happens when you combine Rust, Claude Code, and free weekend h
 tag: workflow
 ---
 
-# Building Emoji Gen with Claude Code
-
 Last week I learned a ton using Claude Code to build my [Rust CLI app Emojigen](https://github.com/francisfuzz/emoji_gen).
 
 Inspired by Oxide Computer Company's ["Why Does Oxide Use Rust?"](https://oxide.computer/blog/why-rust) blog post, I created this project to pick up Rust again. I planned the build with Claude and chose Rust as the base programming language for this command-line interface.
