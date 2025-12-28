@@ -65,3 +65,21 @@ I need to credit these authors whose work helped me see things differently and t
 - https://steipete.me/posts/just-talk-to-it
 - https://jonmagic.com/posts/how-i-work-2025-edition/
 - https://simonwillison.net/2025/Dec/10/html-tools/
+
+## Closing thoughts
+
+I asked Claude what it thought about my experience, specifically:
+
+> Going through this copy what's something that you spotted but I did not mention that I think would be a good takeaway moving forward?
+
+Here's the compacted summary:
+
+**Managing collaboration bandwidth, not just token budgets.** Through building Emojigen, I developed a practical framework for human-AI collaboration by tiering work across three levels:
+
+- **High-value tasks** → Let Claude think (debugging, test design, architecture)
+- **Repetitive tasks** → Use bang operator for direct execution (git ops, status checks)  
+- **Reusable patterns** → Codify into skills (conventional commits, workflows)
+
+Token constraints became a forcing function to think critically about where AI adds the most value. This delegation triage—deciding what's worth the "conversation cost"—is transferable beyond Claude Code. As AI tools proliferate across workflows, the real skill isn't just using them, but developing intuition about which tool, at which stage, and at what level of autonomy.
+
+Until soon, happy building! <3
