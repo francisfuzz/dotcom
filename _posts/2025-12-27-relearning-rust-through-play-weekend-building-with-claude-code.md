@@ -1,5 +1,5 @@
 ---
-title: Relearning Rust Through Play: My Weekend Building Emojigen with Claude Code
+title: Relearning Rust Through Play by building emoji_gen with Claude Code
 date: 2025-12-27
 description: What happens when you combine Rust, Claude Code, and free weekend hours? I built Emojigen and rediscovered the joy of coding without deadlines while learning about AI-assisted workflows.
 tag: workflow
