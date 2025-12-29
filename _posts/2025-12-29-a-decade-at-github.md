@@ -39,7 +39,7 @@ As I moved from support to program management to partner engineering to product 
 
 ## 2. Finding a mentor early on can make or break the experience
 
-[Ivan Zuzak (@izuzak)](http://github.com/izuzak) was a support engineer with a PhD in web systems, deep technical chops, and a distinctive writing style that caught my attention. I was drawn to how he approached helping people—especially around APIs and integrations, the area I found most fascinating from my software engineering background.
+[Ivan Zuzak (@izuzak)](http://github.com/izuzak) is a staff software engineer at GitHub. When we first met, we worked in support and his deep technical chops and distinctive writing style that caught my attention. I was drawn to how he approached helping people—especially around APIs and integrations, the area I found most fascinating from my software engineering background.
 
 I asked my manager how to approach him, and over the next 3½ years, we worked together answering every question under the sun about GitHub's REST API, GraphQL API, OAuth apps, GitHub Apps, webhooks—anything with programmatic support.
 
