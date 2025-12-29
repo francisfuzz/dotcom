@@ -53,7 +53,7 @@ Years later, after several internal pivots, Ivan and I still check in every few 
 
 Early on, GitHub introduced the [Checks API](https://docs.github.com/en/rest/checks?apiVersion=2022-11-28)—a richer interface for integrators to report build statuses beyond the simple pending/success/error states of the old Status API. I was intimidated. It wasn't as intuitive as repositories or pull requests.
 
-I spent time with the lead engineer, [@keavy](https://keavy.com/), asking basic questions the documentation didn't answer. What does this feature do? Why does it exist? I extracted my notes into a Markdown document (this was before AI tools), created a slide deck, and hosted a lunch-and-learn for support engineers.
+I spent time with the lead engineer, [@keavy](https://keavy.com/), asking basic questions the documentation didn't answer. What does this feature do? Why does it exist? I extracted my notes into a Markdown document (this was before AI tools), created a slide deck, and hosted a lunch-and-learn for support engineers. Today, I'd issue multiple pull requests to the documentation or source while working on a Loom to contextualize it for humans in the future (yay distributed workforce!).
 
 Then I invited the partner engineering team. They worked directly with integrators who deeply integrated with GitHub's systems—high-touch, high-value relationships. Suddenly, packaging my knowledge wasn't just helping my team on the front lines; it was helping partner engineers be more effective in enabling integrators to succeed.
 
