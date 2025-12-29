@@ -139,6 +139,18 @@ In the age of AI agents, I'm still asking questions. How do we give agents the c
 
 Ten years in, I'm grateful for the questions I've asked and the people who've helped me ask better ones. `<3`
 
+### Special Thanks ✨
+
+First, all glory to God. To my wife Angelica and daughter Ava, and my parents who've supported me since the beginning.
+
+To [Ivan Zuzak](https://github.com/izuzak) for being an exceptional mentor and showing me what great technical leadership looks like.
+
+To the managers who believed in me, sponsored my transitions, and invested in my growth as a person—thank you for helping me become who I am today.
+
+To the New User Experience team for teaching me what it means to build with empathy and impact.
+
+And to the support, partner engineering, program management, and product engineering teams who taught me something new every day—thank you for ten incredible years of learning, building, and asking better questions together.
+
 ---
 
 *This post was shaped in partnership with Claude, an AI assistant that helped me articulate these lessons and organize my thoughts. The act of explaining my decade to Claude became its own form of asking questions—which feels fitting.*
