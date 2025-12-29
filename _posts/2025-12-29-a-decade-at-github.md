@@ -31,7 +31,11 @@ One of my mentors taught me a technique that changed everything. Instead of jump
 
 This question was gold. While most of our tickets were about GitHub's API and integrations, this simple prompt revealed *how* people were actually using the platform and *where* the interface mattered most to them. That context helped me course-correct my replies and connect customers with the right resources and people.
 
-The difference between a great question and a regular one? Context. Great questions are specific and get to the heart of what matters to your audience. As I moved from support to program management to partner engineering to product engineering, my questions evolved—adapting to different audiences (customers, stakeholders, partners, cross-functional teams) while becoming more refined as I gained context about what each role needed.
+The difference between a great question and a regular one? Context!
+
+**Great questions are specific and get to the heart of what matters to your audience.**
+
+As I moved from support to program management to partner engineering to product engineering, my questions evolved—adapting to different audiences (customers, stakeholders, partners, cross-functional teams) while becoming more refined as I gained context about what each role needed.
 
 ## 2. Finding a mentor early on can make or break the experience
 
@@ -41,7 +45,7 @@ I asked my manager how to approach him, and over the next 3½ years, we worked t
 
 What made Ivan exceptional wasn't just his technical depth. He identified my superpower early: finding the right people to tackle a problem and building shared understanding across teams. He sponsored me by giving me an opportunity to present at an internal summit on the integrator experience, speaking alongside leaders from engineering, product, and design. That moment let me formalize what I did, how I did it, and why it mattered. It expanded my trajectory from support engineer to product engineer.
 
-Later, when GitHub Actions launched, I became the internal ombudsperson for the feature, leveling up my team and empowering customers. Watching my own progression made me realize something critical: mentorship creates a debt you pay forward. I started seeking out people without mentors, trying to offer what Ivan had given me.
+Later, when GitHub Actions launched, I became the internal [ombudsperson](https://en.wikipedia.org/wiki/Ombudsman) for the feature, leveling up my team and empowering customers. Watching my own progression made me realize something critical: mentorship creates a debt you pay forward. I started seeking out people without mentors, trying to offer what Ivan had given me.
 
 Years later, after several internal pivots, Ivan and I still check in every few months. We work in the same engineering organization now. I still look up to him, and I'm certain I wouldn't be the same person without his guidance.
 
@@ -59,7 +63,7 @@ This practice evolved across my roles. Today, in the age of AI tools, I use Copi
 
 ## 4. Don't just teach your team—find others who use the same technologies and equip them too
 
-When I became the ombudsperson for [GitHub Actions](https://github.com/features/actions), I published our internal support documentation in a location where product engineers could see what we were working on and what questions we were getting. Other teams working with integrators and customers building on GitHub Actions could use it too.
+When I became one of the internal [ombudspersons](https://en.wikipedia.org/wiki/Ombudsman) for [GitHub Actions](https://github.com/features/actions), I published our internal support documentation in a location where product engineers could see what we were working on and what questions we were getting. Other teams working with integrators and customers building on GitHub Actions could use it too.
 
 This was a turning point. I realized I enjoyed being in the weeds—and sometimes climbing up to see the forest. That forest-level view came from pausing to reflect: What's the core issue or lesson here? Who else could benefit from what I've learned?
 
