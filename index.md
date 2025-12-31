@@ -4,8 +4,6 @@ title: About
 date: 2025-12-13
 ---
 
-# francisfuzz.com
-
 👋 Hi, I'm Francis!
 
 I'm a Senior Software Engineer at GitHub on the New User Experience team, where I work on initiatives that streamline signups, simplify onboarding, and surface the highest-signal information on the dashboard—helping millions of developers get the most out of GitHub and GitHub Copilot. I build with React, TypeScript, and Rails, and I'm experienced in A/B testing, feature flagging, and conversion optimization. I also serve as an Incident Commander, helping keep GitHub reliable during critical incidents.
