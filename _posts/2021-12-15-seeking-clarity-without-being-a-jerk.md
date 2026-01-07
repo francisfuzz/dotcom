@@ -91,7 +91,7 @@ Lizzy also highlighted identifying assumptions as one of the primary technical s
 
 A number of my colleagues suggested these books to learn more about the topic:
 
-- [StackExchange | What is the XY problem?](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
+- [StackExchange: "What is the XY problem?"](https://meta.stackexchange.com/questions/66377/what-is-the-xy-problem)
 - [Domain-driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215)
 - [Agile Retrospectives: Making Good Teams Great](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
 - [Project Retrospectives: A Handbook for Team Reviews](https://www.amazon.com/Project-Retrospectives-Handbook-Reviews-Dorset-ebook/dp/B00DY3KQJU)
