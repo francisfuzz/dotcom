@@ -10,6 +10,8 @@ After hearing about US Tariff Codes so much on the news, I wanted to understand 
 
 What started as a small project to store tariff data in a SQL database and make it queryable through a CLI grew into something much broader: an MCP server, a [publicly searchable index](https://tariff-everywhere.fly.dev/) powered by [Datasette](https://datasette.io/) and [Fly.io](http://fly.io/), and an exported Python library that developers can integrate into their code (though at time of writing, not published to any registry--but certainly possible!). It's all published as an [open source repository at `francisfuzz/tariff-everywhere`](https://github.com/francisfuzz/tariff-everywhere).
 
+Give it a try: [https://tariff-everywhere.fly.dev/](https://tariff-everywhere.fly.dev/)
+
 ## How it started
 
 Straight from [the United States International Trade Commission's site](https://hts.usitc.gov/):
@@ -112,4 +114,4 @@ The project is functional. All three modes work—CLI, MCP, web. Tests pass. The
 
 What I've tried to do is leave the best gift a developer can leave: a codebase where decisions are explained, not just implemented. Where defensive patterns are intentional, not random. Where someone—whether that's me in a few months or someone else entirely—can understand not just what the code does, but why it was built that way.
 
-Give it a try: https://tariff-everywhere.fly.dev/
+Give it a try: [https://tariff-everywhere.fly.dev/](https://tariff-everywhere.fly.dev/)
