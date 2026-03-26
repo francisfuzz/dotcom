@@ -1,7 +1,7 @@
 ---
-title: "What I learned digging through the US Tariff Codes"
+title: "Building tariff-everywhere: One Dataset, Many Interfaces"
 date: 2026-03-26
-description: "Introducing tariff-everywhere"
+description: "How I turned a public API into a CLI, MCP server, and searchable web interface—iteratively, with Claude as a thinking partner"
 tags:
   - project
 ---
