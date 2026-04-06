@@ -6,6 +6,8 @@ tags:
   - project
 ---
 
+<!-- TODO: Add screen.studio demo -->
+
 Problem: performance reviews are coming and I need to re-remember what I did in the last `$TIME_PERIOD`. I'm scrambling to write a script, look at the last few months of work, and make sense of things. There must be a better way.
 
 Attempt at a solution: I built a second brain with this purpose:
@@ -46,4 +48,5 @@ I have specific skills to power the work:
 - Creating artifacts from raw meeting notes and relinking that back into my daily notes
 - Introspection and trajectory projection to understand how I'm tracking with my goals
 
+<!-- TODO: Actually create a template based on my current, without all the actual content -->
 Check out the second-brain-template (open source!): https://github.com/francisfuzz/second-brain-template
