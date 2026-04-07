@@ -6,13 +6,6 @@ tags:
   - project
 ---
 
-# Building a Second Brain
-
-**Date:** 2026-04-06  
-**Tags:** project
-
-## The Journey to Git
-
 I've cycled through many writing mediums—notebooks, Apple Notes, Notion, Evernote, Google Docs, and paper. It wasn't until December 2026 that I settled on a Git repository as my primary system for logging thoughts, work, and learnings.
 
 The shift came after reading [Jon Magic's "How I Work, 2025 Edition"](https://jonmagic.com/posts/how-i-work-2025-edition/) and revisiting [Ben Balter's "Why everything should have a URL"](https://ben.balter.com/2015/11/12/why-urls/). As someone who's worked with Git since 2012, the transition felt natural—directing my working memory into version control rather than scattered notes apps.
