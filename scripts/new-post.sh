@@ -9,9 +9,7 @@ fi
 TITLE="$1"
 DESCRIPTION="${2:-}"
 DATE="$(date +%F)"
-SLUG="$(printf '%s' "$TITLE" \
-  | tr '[:upper:]' '[:lower:]' \
-  | sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//; s/-+/-/g')"
+SLUG="$(printf '%s' "$TITLE" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//; s/-+/-/g')"
 FILE="_posts/${DATE}-${SLUG}.md"
 
 if [[ -e "$FILE" ]]; then
