@@ -9,99 +9,44 @@ description: Create a new Jekyll blog post in _posts/ using the site's filename 
 Use this skill when asked to create, initialize, scaffold, or draft a new blog post for this site.
 
 ## Goal
-Create a new Markdown file in `_posts/` that matches this repository's Jekyll conventions:
-- filename: `YYYY-MM-DD-slug.md`
-- front matter includes `layout: post`, `title`, and `date`
-- optional `description` when provided
-- content includes a practical starter shell for writing
-
-## Repository conventions
-- Posts live in `_posts/`
-- Post layout is `post`
-- Permalinks are generated automatically by Jekyll from the global config
-- The current layout only requires `title` and `date` for rendering
+Create a new Markdown file in `_posts/` that matches this repository's Jekyll conventions.
 
 ## Inputs
-- `title` (required)
-- `description` (optional)
-- `date` (optional; default to current date in `YYYY-MM-DD`)
+- title (required)
+- description (optional)
+- date (optional, YYYY-MM-DD)
+- draft flag (optional)
 
-## Steps
-1. Normalize the title into a slug:
-   - lowercase
-   - replace runs of non-alphanumeric characters with `-`
-   - trim leading/trailing `-`
-2. Choose the date:
-   - use the provided date if present
-   - otherwise use today's date in `YYYY-MM-DD`
-3. Build the destination path:
-   - `_posts/<date>-<slug>.md`
-4. Refuse to overwrite an existing post unless explicitly asked
-5. Write the file with this template:
+## Behavior
+- Slugify title (lowercase, hyphenated)
+- Use provided date or default to current date
+- If draft flag is set, create file in `_drafts/slug.md`
+- Otherwise create `_posts/YYYY-MM-DD-slug.md`
+- Validate slug is non-empty
+- Quote YAML values safely
+- Do not overwrite existing files
 
-```md
+## Template
+
 ---
 layout: post
-title: <TITLE>
+title: "<TITLE>"
 date: <YYYY-MM-DD>
-description: <DESCRIPTION>
+description: "<OPTIONAL>"
 ---
 
 Write your introduction here.
 
 ## Key points
 
-- Add your first point
-- Add your second point
-- Add your third point
+- 
+- 
+- 
 
 ## Details
 
-Add the main body of the post here.
-
 ## Closing
-
-Wrap up with the takeaway or next step.
-```
-
-6. If no description was provided, omit the `description` line entirely
-7. Return the created file path
 
 ## Notes
-- Do not add `permalink` unless explicitly requested; the site config already handles this
-- Do not add extra metadata fields unless asked, because the current layout does not use them
-- Keep the shell lightweight and editable
-
-## Example
-Input:
-- title: `A Better Way to Debug CI Failures`
-- description: `Notes on narrowing CI issues quickly`
-
-Output path:
-- `_posts/2026-04-09-a-better-way-to-debug-ci-failures.md`
-
-Output file:
-```md
----
-layout: post
-title: A Better Way to Debug CI Failures
-date: 2026-04-09
-description: Notes on narrowing CI issues quickly
----
-
-Write your introduction here.
-
-## Key points
-
-- Add your first point
-- Add your second point
-- Add your third point
-
-## Details
-
-Add the main body of the post here.
-
-## Closing
-
-Wrap up with the takeaway or next step.
-```
+- Permalinks handled by `_config.yml`
+- Script available: `scripts/new-post.sh`
