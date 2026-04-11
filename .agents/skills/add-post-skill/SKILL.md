@@ -17,6 +17,13 @@ Create a new Markdown file in `_posts/` that matches this repository's Jekyll co
 - date (optional, YYYY-MM-DD)
 - draft flag (optional)
 
+## Implementation
+Use the helper script:
+
+```
+scripts/new-post.sh "<title>" "<description>" "<date>"
+```
+
 ## Behavior
 - Slugify title (lowercase, hyphenated)
 - Use provided date or default to current date

@@ -19,7 +19,7 @@ if [[ ${1:-} == "--draft" ]]; then
   shift
 fi
 
-if [[ ${1:-} == "" ]]; then
+if [[ $# -lt 1 || $# -gt 3 ]]; then
   usage
   exit 1
 fi
