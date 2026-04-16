@@ -1,0 +1,24 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Francis Batac
+
+> Senior Software Engineer at GitHub on the New User Experience team. I work on onboarding, engagement, and retention for millions of developers. I write about engineering craft, code review culture, psychological safety, and lessons from the field.
+
+## About
+
+- [About](https://francisfuzz.com/): Who I am, my role at GitHub, and my professional background
+- [Résumé](https://francisfuzz.com/resume/): Full work history from GitHub (2015–present), partner engineering, program management, and earlier software roles. B.S. Mathematics, Pepperdine University.
+- [Gear](https://francisfuzz.com/gear/): Software, audio/video, and desk setup I rely on daily
+
+## Posts
+
+{% for post in site.posts %}
+- [{{ post.title }}]({{ post.url | absolute_url }}): {{ post.description }}
+{% endfor %}
+
+## Social
+
+- [GitHub](https://github.com/francisfuzz)
+- [LinkedIn](https://www.linkedin.com/in/francis-batac)

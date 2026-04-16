@@ -68,3 +68,11 @@ All CSS is inline in `_layouts/default.html` (lines 10-45). Uses system fonts an
 ## Deployment
 
 GitHub Pages automatically builds and deploys from the `main` branch. No manual build or deployment steps required.
+
+## AEO (Agent Engine Optimization)
+
+`llms.txt` and `llms-full.txt` serve structured content to AI agents (ChatGPT, Claude, Perplexity, etc.).
+
+- **New posts** are included automatically via Jekyll Liquid templates — no action needed.
+- **New top-level page** (beyond About, Résumé, Gear, Posts): add it to the `## About` section in `llms.txt` and add a prose section to `llms-full.txt`.
+- **About/Résumé/Gear content changes**: update the corresponding hardcoded sections in `llms-full.txt`.
