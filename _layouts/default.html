@@ -7,6 +7,25 @@
   <link rel="icon" type="image/x-icon" href="/public/favicon.ico">
   {% seo %}
   {% feed_meta %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "{{ site.author }}",
+    "url": "{{ site.url }}",
+    "jobTitle": "Senior Software Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "GitHub, Inc.",
+      "url": "https://github.com"
+    },
+    "description": {{ site.description | jsonify }},
+    "sameAs": [
+      "https://github.com/francisfuzz",
+      "https://www.linkedin.com/in/francis-batac"
+    ]
+  }
+  </script>
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;

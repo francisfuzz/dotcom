@@ -1,0 +1,20 @@
+# Francis Batac
+
+> Senior Software Engineer at GitHub on the New User Experience team. I work on onboarding, engagement, and retention for millions of developers. I write about engineering craft, code review culture, psychological safety, and lessons from the field.
+
+## About
+
+- [About](https://francisfuzz.com/): Who I am, my role at GitHub, and my professional background
+- [Résumé](https://francisfuzz.com/resume/): Full work history from GitHub (2015–present), partner engineering, program management, and earlier software roles. B.S. Mathematics, Pepperdine University.
+
+## Posts
+
+- [How @francisfuzz approaches code review](https://francisfuzz.com/posts/2025/06/02/how-i-approach-code-review/): A three-phase framework—context before code, systematic analysis, validation—refined across a decade of reviewing thousands of PRs at GitHub
+- [Building Psychological Safety In Code Reviews](https://francisfuzz.com/posts/2023/07/21/building-psychological-safety-in-code-reviews/): How Amy Edmondson's SAFE framework applies to PR culture, with Google research and GitHub Sponsors case study
+- [Shipping small](https://francisfuzz.com/posts/2023/04/06/shipping-small-potent-pull-requests/): Why small, potent pull requests outperform large ones—with a real story from building a permissions system at GitHub
+- [Web Summit Lisbon 2023](https://francisfuzz.com/posts/2023/11/21/web-summit-lisbon-2023/): Learnings on startup pitching, microbiome research and AI, and what technical leadership looks like at different company stages
+
+## Social
+
+- [GitHub](https://github.com/francisfuzz)
+- [LinkedIn](https://www.linkedin.com/in/francis-batac)
