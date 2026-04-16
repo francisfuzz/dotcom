@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Your Name]]></title>
-        <description><![CDATA[Your Name]]></description>
-        <link>https://yoursite.com</link>
+        <title><![CDATA[francisfuzz.com]]></title>
+        <description><![CDATA[Francis' personal portfolio]]></description>
+        <link>https://francisfuzz.com</link>
         <generator>RSS for Node</generator>
         <lastBuildDate>Sun, 14 Dec 2025 04:29:09 GMT</lastBuildDate>
-        <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://francisfuzz.com/public/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Seeking Clarity Without Being A Jerk]]></title>
             <description><![CDATA[How to reduce ambiguity when presented unclear expectations at work]]></description>

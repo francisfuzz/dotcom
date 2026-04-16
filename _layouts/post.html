@@ -13,13 +13,13 @@ layout: default
   "url": "{{ page.url | absolute_url }}",
   "author": {
     "@type": "Person",
-    "name": "{{ site.author }}",
-    "url": "{{ site.url }}"
+    "name": {{ site.author | jsonify }},
+    "url": {{ site.url | jsonify }}
   },
   "publisher": {
-    "@type": "Person",
-    "name": "{{ site.author }}",
-    "url": "{{ site.url }}"
+    "@type": "Organization",
+    "name": {{ site.author | jsonify }},
+    "url": {{ site.url | jsonify }}
   },
   "mainEntityOfPage": {
     "@type": "WebPage",

@@ -8,6 +8,9 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
+User-agent: claude-web
+Allow: /
+
 User-agent: GPTBot
 Allow: /
 

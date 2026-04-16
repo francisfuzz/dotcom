@@ -29,6 +29,29 @@ Social: GitHub (https://github.com/francisfuzz), LinkedIn (https://www.linkedin.
 
 ---
 
+## Gear
+
+URL: {{ site.url }}/gear/
+
+A running list of tools and equipment I rely on.
+
+### Software
+- Screen Studio — Go-to for recording clean, polished screen recordings.
+
+### Audio / Video
+- Opal C1 — Dedicated webcam. Makes a noticeable difference on calls and recordings.
+- Blue Yeti — Reliable USB microphone, clear audio out of the box.
+- Sennheiser Momentum 4 Wireless — Comfortable for long sessions, great noise cancellation, exceptional battery life.
+
+### Desk Setup
+- MacBook Pro 13-inch, M1 (2020) — The machine everything runs on.
+- Jarvis Bamboo Standing Desk — Solid, height-adjustable standing desk.
+- Herman Miller Aeron — Worth every penny for long work sessions.
+- OWC 11-Port Thunderbolt Dock — One cable to the laptop, everything connected.
+- Lenovo ThinkVision P44w — Wide-format ultrawide monitor.
+
+---
+
 ## Résumé
 
 URL: {{ site.url }}/resume/
