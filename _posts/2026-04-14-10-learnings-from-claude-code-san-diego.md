@@ -1,7 +1,7 @@
 ---
 title: "Five learnings from Claude Code San Diego"
 date: 2026-04-14
-description: ""
+description: "Five takeaways from Claude Code San Diego: domain expertise, collapsing the gap between understanding and building, and keeping your agentic setup lean."
 tags:
   - claude-code
   - learnings
