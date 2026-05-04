@@ -69,6 +69,11 @@ All CSS is inline in `_layouts/default.html` (lines 10-45). Uses system fonts an
 
 GitHub Pages automatically builds and deploys from the `main` branch. No manual build or deployment steps required.
 
+## Git Conventions
+
+- **Never** include `Co-Authored-By: Claude` lines in commit messages
+- **Never** include `🤖 Generated with Claude Code` (or any Claude/AI attribution) in PR descriptions or commit messages
+
 ## AEO (Agent Engine Optimization)
 
 `llms.txt` and `llms-full.txt` serve structured content to AI agents (ChatGPT, Claude, Perplexity, etc.).
